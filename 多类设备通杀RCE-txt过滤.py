@@ -18,7 +18,7 @@ def exp(url):
         if 'root' in res.text:
             print(f'[+]存在漏洞:{shell_url}')
             try:
-                with open('scan_ok.txt', 'a') as f:
+                with open('scan_txt_ok.txt', 'a') as f:
                     f.write('依旧存在漏洞的地址：' + shell_url + '\n')
             except Exception as e:
                 print(f'[!]漏洞不存在或发生异常: {e}')

@@ -17,5 +17,6 @@
 
 先使用：多类设备通杀RCE.py脚本检测过后再使用：多类设备通杀RCE-txt过滤.py脚本这样就能知道哪些依旧存在漏洞了 
 
+![img]([https://mmbiz.qpic.cn/mmbiz_jpg/WqibHnoQAhZfsQbNu18WVZq52MFWZneZkInXJowZvPPMd6fehoxsIeuvpdazg5QpwK1icdEE7kkVwdDE3EsMsRsg/640?wx_fmt=jpeg&wxfrom=13&tp=wxpic](https://img.xwyue.com/i/2024/01/12/65a0d280a957f.jpg))
 
 具体细节请查看文章：https://mp.weixin.qq.com/s/g--z-Z6VGd9GGjeSAZo8uA
